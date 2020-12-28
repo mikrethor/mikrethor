@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello world
 
-<!--
-**mikrethor/mikrethor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Java (Kotlin) Developer focusing on native Java applications. I do some [speaking](https://www.montreal-jug.org/meetup/workshop-quarkus/), teach and write a [blog](https://mikrethor.github.io/blog/).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on running a marathon in less than 4 hours
+- 🌱 I’m currently Quarkus and Spring native
+- 👯 I’m looking to collaborate on a potential podcast
+- 🤔 I’m looking for help with my teaching
+- 💬 Ask me about Java, Kotlin and GraalVM
+- 📫 How to reach me: `@XavierBouclet`
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: 42
