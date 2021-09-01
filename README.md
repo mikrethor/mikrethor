@@ -4,7 +4,7 @@ I'm a Senior Java (Kotlin) Developer focusing on native Java applications. I do 
 
 
 - 🔭 I’m currently working on running a marathon in less than 4 hours
-- 🌱 I’m currently Quarkus and Spring native
+- 🌱 I’m currently learning Quarkus and Spring native
 - 👯 I’m looking to collaborate on a potential podcast
 - 🤔 I’m looking for help with my teaching
 - 💬 Ask me about Java, Kotlin and GraalVM
